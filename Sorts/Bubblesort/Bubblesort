@@ -1,0 +1,7 @@
+Prinzip Bubblesort:
+
+Gehe die Liste Element für Element durch und ändere bei Bedarf.
+Von Start (1er Schrittweise) immer mit Nachfolger vergleichen und ggf. verbessern.
+Mache dies solange, bis im ganzen Array/Sortierobjekt keine eingriffe mehr nötig sind.
+
+Have a lot of fun...
